@@ -5,7 +5,8 @@ public class helloWorld {
         System.out.println("Goodbye World !!");
         System.out.println("POKEMON");
         System.out.println("una cena");
+        System.out.println("una cena2");
+        System.out.println("una cena3");
         System.out.println("una cenaqq");
         }
 }
-
