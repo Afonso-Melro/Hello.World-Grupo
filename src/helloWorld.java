@@ -4,6 +4,6 @@ public class helloWorld {
         System.out.println("Hello World !!");
         System.out.println("Goodbye World !!");
         System.out.println("POKEMON");
-        System.out.println("POKEMON2");
+        System.out.println("una cena");
         }
 }
